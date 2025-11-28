@@ -35,8 +35,8 @@ git clone https://huggingface.co/datasets/wang021/VLBreakBench/tree/main
 
 ## 5. Download Training Dataset (Safety Alignment)
 
-- **VL Break Bench Data**: 
- [Download the dataset from Hugging Face](https://huggingface.co/datasets/wang021/VLBreakBench/tree/main) and keep it in the root directory.
+- **SPA-VL**: 
+ [Download the dataset from Hugging Face](https://huggingface.co/datasets/sqrti/SPA-VL) and keep it in the root directory.
 
  ```bash
 git clone https://huggingface.co/datasets/sqrti/SPA-VL
