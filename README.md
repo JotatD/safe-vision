@@ -42,13 +42,6 @@ git clone https://huggingface.co/datasets/wang021/VLBreakBench/tree/main
 git clone https://huggingface.co/datasets/sqrti/SPA-VL
 ```
 
-# Creating the finetuning dataset
-
-Once VLBreak Bench is downloaded, run the next command to create the dataset for finetuning InternVL models with RLHF-like methods
-
- ```bash
-python filtered.py
-```
 
 # Creating the finetuning dataset
 
