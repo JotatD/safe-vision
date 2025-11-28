@@ -7,7 +7,7 @@ Vision-Language Models (VLMs) have quickly migrated from research demonstrations
 
 ## 1. Clone the Repository
 ```bash
-git clone https://github.com/OpenGVLab/InternVL.git
+git clone https://github.com/JotatD/safe-vision
 ```
 
 ## 2. Create and Activate a Conda Environment
